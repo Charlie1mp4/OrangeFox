@@ -13,7 +13,7 @@
 
 Orange Fox is a Discord bot intended to be able to perform various tasks, ranging from simple server moderation (Kick, ban etc.) to other functions such as the ability to stream music from youtube
 
-I forked this cuz i was bored, none of this is mine.
+THIS BOT IS __NOT__ MINE.
 
 this bot was made in
 [Node.JS](https://nodejs.org), using the
